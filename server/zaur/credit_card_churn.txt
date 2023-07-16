@@ -1,0 +1,25 @@
+Bu fayl haqqında
+Bu verilənlər bazası istehlakçı kredit kartı portfeli üçün müştəri itkisini proqnozlaşdırmaq üçün müştəri məlumatını təmin edir
+
+a: Hər bir müştəri üçün unikal identifikator.
+b: Müştərinin imtina edib-etmədiyini göstərən bayraq.
+c: Müştərinin yaşı.
+d: Müştərinin cinsi.
+e: Müştərinin sahib olduğu asılı şəxslərin sayı.
+f: Müştərinin təhsil səviyyəsi.
+g: Müştərinin ailə vəziyyəti.
+h: Müştərinin gəlir kateqoriyası.
+i: Müştərinin saxladığı kartın növü.
+j: Müştəri nə qədər müddətdir kitablardadır.
+k: Müştərinin kredit kartı provayderi ilə əlaqələrinin ümumi sayı.
+l: Son on iki ayda müştərinin qeyri-aktiv olduğu ayların sayı.
+m: Müştərinin son on iki ayda etdiyi əlaqə sayı.
+n: Müştərinin kredit limiti.
+o: Müştərinin ümumi dövriyyə balansı.
+p: Müştərinin alışa açıq orta nisbəti.
+q: Ümumi məbləğ 4-cü rübdən 1-ci rübə dəyişdirildi.
+r: Ümumi əməliyyat məbləği.
+s: Ümumi əməliyyat sayı.
+t: Ümumi say 4-cü rübdən 1-ci rübə dəyişdi.
+u: Müştərinin orta istifadə nisbəti.
+v: Kiminsə bu kimi xüsusiyyətlərə əsaslanaraq tərəddüd edib etməyəcəyini proqnozlaşdırmaq üçün sadəlövh Bayes təsnifatı
